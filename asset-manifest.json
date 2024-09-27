@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-peralta-navbar/static/css/main.5811d16b.css",
+    "main.js": "/ws101-peralta-navbar/static/js/main.957b64a2.js",
+    "index.html": "/ws101-peralta-navbar/index.html",
+    "main.5811d16b.css.map": "/ws101-peralta-navbar/static/css/main.5811d16b.css.map",
+    "main.957b64a2.js.map": "/ws101-peralta-navbar/static/js/main.957b64a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5811d16b.css",
+    "static/js/main.957b64a2.js"
+  ]
+}
